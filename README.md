@@ -1,16 +1,11 @@
-# Currículum Web — Alexis Daraio
+# Curriculum Web - Alexis Nicolás Daraio
 
-Sitio web personal de una sola página que funciona como Currículum Vitae digital.
+Sitio web desarrollado para la materia XXXX.
 
-## Estructura
-
-| Sección | Contenido |
-|---------|-----------|
-| **Inicio** | Presentación personal |
-| **Perfil** | Descripción, cualidades e idiomas |
-| **Educación** | Formación académica |
-| **Contacto** | Correo electrónico con enlace directo |
-
-## Link
-
+## Ver sitio online
 https://alexisdara.github.io/cv-AlexisDaraio/
+
+## Repositorio
+https://github.com/AlexisDara/cv-AlexisDaraio
+
+
