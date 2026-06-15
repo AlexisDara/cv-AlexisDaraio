@@ -11,3 +11,6 @@ Sitio web personal de una sola página que funciona como Currículum Vitae digit
 | **Educación** | Formación académica |
 | **Contacto** | Correo electrónico con enlace directo |
 
+## Link
+
+https://alexisdara.github.io/cv-AlexisDaraio/
