@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#1e293b"/>
+  <rect x="280" y="30" width="240" height="440" rx="24" fill="#0f172a" stroke="#334155" stroke-width="4"/>
+  <rect x="300" y="60" width="200" height="30" rx="4" fill="#2563eb"/>
+  <rect x="300" y="110" width="200" height="60" rx="8" fill="#1e293b" stroke="#334155"/>
+  <rect x="300" y="190" width="200" height="60" rx="8" fill="#1e293b" stroke="#334155"/>
+  <rect x="300" y="270" width="200" height="60" rx="8" fill="#2563eb" opacity="0.5"/>
+  <circle cx="400" cy="420" r="20" fill="#2563eb"/>
+  <text x="400" y="490" text-anchor="middle" fill="#64748b" font-family="Arial,sans-serif" font-size="16">App Gestión de Tareas</text>
+</svg>
